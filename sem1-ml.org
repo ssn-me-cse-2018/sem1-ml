@@ -1,0 +1,90 @@
+#+title: CP5191 MACHINE LEARNING TECHNIQUES
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+* OBJECTIVES
+- To introduce students to the basic concepts and techniques
+  of Machine Learning.
+- To have a thorough understanding of the Supervised and
+  Unsupervised learning techniques
+- To study the various probability based learning techniques
+- To understand graphical models of machine learning algorithms
+
+* UNIT I INTRODUCTION (9)
+Learning - Types of Machine Learning -- Supervised Learning
+-- The Brain and the Neuron -- Design a Learning System --
+Perspectives and Issues in Machine Learning -- Concept
+Learning Task -- Concept Learning as Search -- Finding a
+Maximally Specific Hypothesis -- Version Spaces and the
+Candidate Elimination Algorithm -- Linear Discriminants --
+Perceptron -- Linear Separability -- Linear Regression.
+
+* UNIT II LINEAR MODELS (9)
+Multi-layer Perceptron -- Going Forwards -- Going Backwards:
+Back Propagation Error -- Multi- layer Perceptron in
+Practice -- Examples of using the MLP -- Overview --
+Deriving Back- Propagation -- Radial Basis Functions and
+Splines -- Concepts -- RBF Network -- Curse of
+Dimensionality -- Interpolations and Basis Functions --
+Support Vector Machines.
+
+* UNIT III TREE AND PROBABILISTIC MODELS (9)
+Learning with Trees -- Decision Trees -- Constructing
+Decision Trees -- Classification and Regression Trees --
+Ensemble Learning -- Boosting -- Bagging -- Different ways
+to Combine Classifiers -- Probability and Learning -- Data
+into Probabilities -- Basic Statistics -- Gaussian Mixture
+Models -- Nearest Neighbor Methods -- Unsupervised Learning
+-- K means Algorithms -- Vector Quantization -- Self
+Organizing Feature Map
+
+* UNIT IV DIMENSIONALITY REDUCTION AND EVOLUTIONARY MODELS (9)
+Dimensionality Reduction -- Linear Discriminant Analysis --
+Principal Component Analysis -- Factor Analysis --
+Independent Component Analysis -- Locally Linear Embedding
+-- Isomap -- Least Squares Optimization -- 
+#+BEGIN_COMMENT
+I think ``evolutionary learning'' need not be in the
+syllabus. (R S Milton, 27 Apr 2018)
+#+END_COMMENT
+Evolutionary Learning -- Genetic algorithms -- Genetic
+Offspring: - Genetic Operators -- Using Genetic Algorithms
+-- Reinforcement Learning -- Overview -- Getting Lost
+Example -- Markov Decision Process
+
+* UNIT V GRAPHICAL MODELS (9)
+Markov Chain Monte Carlo Methods -- Sampling -- Proposal
+Distribution -- Markov Chain Monte Carlo -- Graphical Models
+-- Bayesian Networks -- Markov Random Fields -- Hidden
+Markov Models -- Tracking Methods 
+
+* TOTAL: 45 PERIODS
+
+* OUTCOMES
+Upon completion of this course, the students will be able
+to:
+- Distinguish between, supervised, unsupervised and
+  semi-supervised learning
+- Apply the appropriate machine learning strategy for any
+  given problem
+- Suggest supervised, unsupervised or semi-supervised
+  learning algorithms for any given problem
+- Design systems that uses the appropriate graph models of
+  machine learning
+- Modify existing machine learning algorithms to improve
+  classification efficiency
+
+* REFERENCES
+1. Ethem Alpaydin, Introduction to Machine Learning 3E
+   (Adaptive Computation and Machine Learning Series), Third
+   Edition, MIT Press, 2014
+2. Jason Bell, Machine learning -- Hands on for Developers
+   and Technical Professionals, First Edition, Wiley, 2014
+3. Peter Flach, Machine Learning: The Art and Science of
+   Algorithms that Make Sense of Data, First Edition,
+   Cambridge University Press, 2012.
+4. Stephen Marsland, Machine Learning -- An Algorithmic
+   Perspective, Second Edition, Chapman and Hall/CRC Machine
+   Learning and Pattern Recognition Series, 2014.
+5. Tom M Mitchell, Machine Learning, First Edition, McGraw
+   Hill Education, 2013.
